@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/WillianOL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianOL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height= "190em" src="https://github-readme-stats.vercel.app/api?username=WillianOL&show_icons=true&theme=onedark" border_radius="20"/>
 </div> 
   
   
@@ -15,7 +15,7 @@
 </div> <br>
   
 <a href="https://github.com/WillianOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianOL&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianOL&theme=onedark&hide_langs_below=1"/>
 </a>
   
   ## Como me encontrar🙃
