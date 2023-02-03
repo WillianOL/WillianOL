@@ -1,5 +1,5 @@
 ### Bem vindo(a)! 👋
-## Oi, oi! Eu sou o Willian Oliveira 😄
+## Ola! Eu sou o Willian Oliveira 😄
 
 <div align="center">
   <a href="https://github.com/WillianOL">
