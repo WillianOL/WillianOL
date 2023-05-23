@@ -2,7 +2,7 @@
 ## Fala mundo! Meu nome é Willian Oliveira.
 <ul>
   <li>📚 Entusiasta da tecnologia, principalmente desenvolvimento web.</li>  
-<ul>
+</ul>
   
 &nbsp;
   
