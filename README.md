@@ -1,15 +1,14 @@
-### Bem vindos(a)!👋
-## Olá! Meu nome é Willian Oliveira.
+### Hello, world!👋
+## Olá! Me chamo Willian Oliveira.
 📚 Entusiasta da tecnologia, principalmente desenvolvimento web.</li>  
-  
 &nbsp;
-  
 <div align="center">
   <a href="https://github.com/WillianOL">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WillianOL&show_icons=true&theme=radical"/>
     <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianOL&layout=compact&true&theme=radical"/>
   </a>
-</div>  
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
