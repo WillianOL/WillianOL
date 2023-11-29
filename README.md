@@ -1,8 +1,6 @@
 ### Bem vindos(a)!👋
 ## Olá! Meu nome é Willian Oliveira.
-<ul>
-  <li>📚 Entusiasta da tecnologia, principalmente desenvolvimento web.</li>  
-</ul>
+📚 Entusiasta da tecnologia, principalmente desenvolvimento web.</li>  
   
 &nbsp;
   
