@@ -1,22 +1,16 @@
-### Hello, world!👋
-## Olá! Me chamo Willian Oliveira.
-📚 Entusiasta da tecnologia, principalmente desenvolvimento web.</li>  
-&nbsp;
-<div align="center">
-  <a href="https://github.com/WillianOL">
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=WillianOL&show_icons=true&theme=radical"/>
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianOL&layout=compact&true&theme=radical"/>
-  </a>
-</div>
+# Olá! Me chamo Willian Oliveira👋
 
-<div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</div>
-  
+![Banner](https://github.com/user-attachments/assets/164137b1-cf8c-4191-9729-833fb92c9350)
+Tenho 19 anos e sou um desenvolvedor frontend. Comecei minha jornada na programação em 2021 com meus estudos, e dês de então me apaixonei pela área de desenvolvimento, mais especificamente desenvolvimento web. Até agora tenho 4 anos acumulados de estudos, minha experiência são em projetos próprios que venho desenvolvendo para exercitar meus conhecimentos. Sou uma pessoa criativa, sempre em busca de novos conhecimentos para me desenvolver mais ainda como programador.
+
+### Portifólio
+Destaquei meus principais projetos para exibição com descrição de cada um e as tecnologias que usei. Além de informações mais detalhadas sobre mim e contato.
+
+[![Willian Oliveira](https://img.shields.io/badge/Willian%20Oliveira-608FF3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-plum-psi.vercel.app/)
+
+### Ferramentas principais🪛
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,html,css,sass,git)](https://skillicons.dev)
 
   
   ## Contato📨
