@@ -1,7 +1,7 @@
 # Olá! Me chamo Willian Oliveira👋
 
 ![Banner](https://github.com/user-attachments/assets/164137b1-cf8c-4191-9729-833fb92c9350)
-Tenho 19 anos e sou um desenvolvedor frontend. Comecei minha jornada na programação em 2021 com meus estudos e, desde então, me apaixonei pela área de desenvolvimento, mais especificamente na área de desenvolvimento web. Até o momento, acumulei 4 anos de estudos, com experiência em projetos próprios que venho desenvolvendo para exercitar meus conhecimentos. Sou uma pessoa criativa, sempre em busca de novos conhecimentos para me desenvolver ainda mais como programador.
+Tenho 20 anos e sou um desenvolvedor frontend. Comecei minha jornada na programação em 2021 com meus estudos e, desde então, me apaixonei pela área de desenvolvimento, mais especificamente na área de desenvolvimento web. Até o momento, acumulei 4 anos de estudos, com experiência em projetos próprios que venho desenvolvendo para exercitar meus conhecimentos. Sou uma pessoa criativa, sempre em busca de novos conhecimentos para me desenvolver ainda mais como programador.
 
 ### Portifólio
 Destaquei meus principais projetos para exibição com descrição de cada um e as tecnologias que usei. Além de informações mais detalhadas sobre mim e contato.
