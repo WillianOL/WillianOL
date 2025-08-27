@@ -10,7 +10,7 @@ Destaquei meus principais projetos para exibição com descrição de cada um e 
 
 ### Ferramentas principais🪛
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,typescript,nodejs,docker,figma,html,css,sass,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,typescript,javascript,nodejs,docker, postgresql,figma,html,css,sass,git)](https://skillicons.dev)
 
   
   ## Contato📨
